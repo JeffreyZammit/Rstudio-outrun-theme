@@ -19,7 +19,3 @@ An [Outrun](https://www.reddit.com/r/outrun)-inspired editor theme for [RStudio]
 1. Under the `Editor theme` section, click `Add...`.
 
 1. Navigate to where you stored the `outRun.rstheme` file and click `Open`.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Optional:* Install [riley-roach](https://github.com/riley-roach)'s [Darker RStudio Modern](https://github.com/riley-roach/daRkStudio) theme.
-
-For the visual learner, I would suggest following the [RStudio's IDE Custom Theme Support guide](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/#importing-a-custom-theme).
