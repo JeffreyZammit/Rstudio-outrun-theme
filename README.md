@@ -1,8 +1,8 @@
-# outRun RStudio Editor Theme
+# outRun Electric RStudio Editor Theme
 
-An [Outrun](https://www.reddit.com/r/outrun)-inspired editor theme for [RStudio](https://www.rstudio.com). It is based on the chaos editor theme.
+An [Outrun](https://www.reddit.com/r/outrun)-inspired editor theme for [RStudio](https://www.rstudio.com). It is based on the VSCode Outrun Electric theme.
 
-![Example of Outrun Theme](https://github.com/camkay/outRun/blob/master/example/outrun_theme_example.png)
+![Example of Outrun Theme](https://github.com/JeffreyZammit/Rstudio-outrun-theme/blob/main/example/example.PNG?raw=true)
 
 ## Importing the Theme
 
