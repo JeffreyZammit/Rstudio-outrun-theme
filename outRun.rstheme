@@ -2,7 +2,7 @@
 /* rs-theme-is-dark: TRUE */
 .ace_gutter {
   background: #0C0A20;
-  color: #ffffff;
+  color: #484F7D;
   border-right: 1px solid #0C0A20;
 }
 .ace_gutter-cell.ace_warning {
@@ -27,17 +27,17 @@
 }
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
   background-color: #0C0A20;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .ace_cursor {
-  border-left: 2px solid #FFFFFF;
+  border-left: 2px solid #FF2AFC;
 }
 .ace_cursor.ace_overwrite {
   border-left: 0px;
-  border-bottom: 1px solid #FFFFFF;
+  border-bottom: 1px solid #FF2AFC;
 }
 .ace_marker-layer .ace_selection {
-  background: #442044;
+  background: #2A2D4F;
 }
 .ace_marker-layer .ace_step {
   background: rgb(198, 219, 174);
@@ -47,19 +47,19 @@
   border: 1px solid #FCE94F;
 }
 .ace_marker-layer .ace_active-line {
-  background: #333;
+  background: #42C6FF;
 }
 .ace_gutter-active-line {
-  background-color: #222;
-}
+  background-color: #42C6FF;
+}7984D1
 .ace_invisible {
-  color: #404040;
+  color: #546A90;
 }
 .ace_keyword {
-  color:#00ffff;
+  color:#FF2AFC;
 }
 .ace_keyword.ace_operator {
-  color:#FF1CA6;
+  color:#FFD400;
 }
 .ace_constant {
   color:#DF75C5;
@@ -68,18 +68,18 @@
   color:#FFD400;
 }
 .ace_constant.ace_library {
-  color:#FFD400;
+  color:#F09B50;
 }
 .ace_constant.ace_numeric {
   color:#FFD400;
 }
 .ace_invalid {
-  color:#FFFFFF;
-  background-color:#C70343;
+  color:#C70067;
+  background-color:#0C0A20;
 }
 .ace_invalid.ace_deprecated {
-  color:#FFFFFF;
-  background-color:#C70343;
+  color:#C70067;
+  background-color:#0C0A20;
 }
 .ace_support {
   color: #999;
@@ -87,11 +87,11 @@
 .ace_support.ace_function {
   color:#00ffff;
 }
-.ace_function {
+.ace_function, .ace_heading	 {
   color:#00ffff;
 }
 .ace_string {
-  color:#FFD400;
+  color:#7984D1;
 }
 .ace_comment {
   color:#546A90;
@@ -102,7 +102,7 @@
   color:#DF75C5;
 }
 .ace_meta.ace_tag {
-  color:#FF1CA6;
+  color:#7984D1;
 }
 .ace_entity.ace_other.ace_attribute-name {
   color:#FFFF89;
@@ -147,7 +147,7 @@
   color: #000;
 }
 .nocolor.ace_editor .ace_line span {
-  color: #FF1CA6 !important;
+  color: #FF2AFC !important;
 }
 .ace_bracket {
   margin: 0 !important;
@@ -174,7 +174,7 @@
 }
 .terminal {
   background-color: #0C0A20;
-  color: #e6e1dc;
+  color: #7984D1;
   font-feature-settings: "liga" 0;
   position: relative;
   user-select: none;
